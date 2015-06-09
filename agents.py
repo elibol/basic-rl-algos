@@ -1,6 +1,5 @@
 # Author: Melih Elibol
-# Email: elibol@fas.harvard.edu
-# Description:
+# Description: Reinforcement learning algorithms with consistent interface.
 
 import numpy as np
 from policy import EpsilonGreedyPolicy

@@ -1,5 +1,5 @@
 # Author: Melih Elibol
-# Description:
+# Description: Policies for decision making.
 
 import numpy as np
 

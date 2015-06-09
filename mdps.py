@@ -1,5 +1,5 @@
 # Author: Melih Elibol
-# Description:
+# Description: Models which may be used for Markov decision processes.
 
 
 import numpy as np
